@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/storage/app/signatures
+/vendor
+/.idea
+/nbproject
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+*.sublime-workspace
+.DS_Store
+.phpunit.result.cache
