@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "97ebf47cf513d1aa28047f7ff8e20f7b",
+    "content-hash": "e118a0d6252576247e9c92e7bde9e058",
     "packages": [
         {
             "name": "barryvdh/laravel-snappy",
@@ -1602,20 +1602,20 @@
         },
         {
             "name": "huconglobal/architect",
-            "version": "v4.0.3",
+            "version": "v4.0.4",
             "source": {
                 "type": "git",
                 "url": "git@github.com:huconglobal/architect-module.git",
-                "reference": "2ac00e3feafe3550f9e6874f58faf95d2099c3e1"
+                "reference": "373f615c4eeb3b2b319a3100eb12e8012f2ffb23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/huconglobal/architect-module/zipball/2ac00e3feafe3550f9e6874f58faf95d2099c3e1",
-                "reference": "2ac00e3feafe3550f9e6874f58faf95d2099c3e1",
+                "url": "https://api.github.com/repos/huconglobal/architect-module/zipball/373f615c4eeb3b2b319a3100eb12e8012f2ffb23",
+                "reference": "373f615c4eeb3b2b319a3100eb12e8012f2ffb23",
                 "shasum": ""
             },
             "require": {
-                "huconglobal/iap": "^4.0.0"
+                "huconglobal/iap": "^4.0"
             },
             "type": "library",
             "extra": {
@@ -1641,7 +1641,7 @@
                 }
             ],
             "description": "Management system package for helicopter operators",
-            "time": "2019-11-11T00:52:38+00:00"
+            "time": "2020-05-31T17:24:02+00:00"
         },
         {
             "name": "huconglobal/converter",
