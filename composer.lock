@@ -309,12 +309,12 @@
             "version": "3.0.62",
             "source": {
                 "type": "git",
-                "url": "https://github.com/caouecs/Laravel-lang.git",
+                "url": "https://github.com/caouecs/lang.git",
                 "reference": "fcb8cec051b175278e0a9efa440f0b1033d12dd7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/caouecs/Laravel-lang/zipball/fcb8cec051b175278e0a9efa440f0b1033d12dd7",
+                "url": "https://api.github.com/repos/caouecs/lang/zipball/fcb8cec051b175278e0a9efa440f0b1033d12dd7",
                 "reference": "fcb8cec051b175278e0a9efa440f0b1033d12dd7",
                 "shasum": ""
             },
@@ -345,6 +345,7 @@
                 "laravel",
                 "lpm"
             ],
+            "abandoned": "https://github.com/Laravel-Lang/lang",
             "time": "2019-03-17T10:36:46+00:00"
         },
         {
@@ -532,7 +533,7 @@
             "keywords": [
                 "laravel"
             ],
-            "abandoned": true,
+            "abandoned": "diglactic/laravel-breadcrumbs",
             "time": "2019-12-30T22:50:51+00:00"
         },
         {
@@ -1748,16 +1749,16 @@
         },
         {
             "name": "huconglobal/iap",
-            "version": "v4.0.2",
+            "version": "v4.0.3",
             "source": {
                 "type": "git",
                 "url": "git@github.com:huconglobal/iap-module.git",
-                "reference": "2c6c18c02e0ddcef43421b110c0af64a1b1953cf"
+                "reference": "55c2bfd89c4338c401b02774a86a37db2e1119ef"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/huconglobal/iap-module/zipball/2c6c18c02e0ddcef43421b110c0af64a1b1953cf",
-                "reference": "2c6c18c02e0ddcef43421b110c0af64a1b1953cf",
+                "url": "https://api.github.com/repos/huconglobal/iap-module/zipball/55c2bfd89c4338c401b02774a86a37db2e1119ef",
+                "reference": "55c2bfd89c4338c401b02774a86a37db2e1119ef",
                 "shasum": ""
             },
             "require": {
@@ -1788,7 +1789,7 @@
                 }
             ],
             "description": "Assessment system package - Integrated Assessment Program",
-            "time": "2019-11-22T00:14:30+00:00"
+            "time": "2020-10-24T20:07:28+00:00"
         },
         {
             "name": "jakub-onderka/php-console-color",
@@ -3178,12 +3179,12 @@
             "version": "v1.1.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/nrk/predis.git",
+                "url": "https://github.com/predis/predis.git",
                 "reference": "f0210e38881631afeafb56ab43405a92cafd9fd1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nrk/predis/zipball/f0210e38881631afeafb56ab43405a92cafd9fd1",
+                "url": "https://api.github.com/repos/predis/predis/zipball/f0210e38881631afeafb56ab43405a92cafd9fd1",
                 "reference": "f0210e38881631afeafb56ab43405a92cafd9fd1",
                 "shasum": ""
             },
