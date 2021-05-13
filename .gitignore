@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /storage/app/signatures
+/storage/updates/*
 /vendor
 /.idea
 /nbproject
